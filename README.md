@@ -6,18 +6,18 @@ Como solución, se diseñó y desarrolló un sitio web funcional utilizando un t
 
 ## Características del Sitio Web
 
-> Diseño Landingpage
-> Presenta la marca y destaca los productos más vendidos de manera visualmente atractiva.
-> Fácil Navegación: Una estructura clara que permite a los usuarios explorar la marca y sus productos sin complicaciones.
-> Catálogo de Productos: Un espacio dedicado a mostrar los productos disponibles junto con un enlace que los lleva al catálogo de instagram ( a petición del emprendedor)
-> Diseño Responsivo
+- Diseño Landingpage
++ Presenta la marca y destaca los productos más vendidos de manera visualmente atractiva.
+- Fácil Navegación: Una estructura clara que permite a los usuarios explorar la marca y sus productos sin complicaciones.
++ Catálogo de Productos: Un espacio dedicado a mostrar los productos disponibles junto con un enlace que los lleva al catálogo de instagram ( a petición del emprendedor)
+- Diseño Responsivo
 
 ## Tecnologías Utilizadas
-> HTML y CSS: Para la estructura y estilización del sitio web
-> JavaScript: Para añadir interactividad y mejorar la experiencia de usuario
-> Git y GitHub: Control de versiones y alojamiento del código fuente.
-> Netlify: Para el despliegue y alojamiento del sitio web.
+- HTML y CSS: Para la estructura y estilización del sitio web
+- JavaScript: Para añadir interactividad y mejorar la experiencia de usuario
+- Git y GitHub: Control de versiones y alojamiento del código fuente.
+- Netlify: Para el despliegue y alojamiento del sitio web.
 
 ## Despliegue en Netlify
 Puedes visitarlo en el siguiente enlace:
-[**Pacto de Sal - Sitio Web**](https://pactodesal.netlify.app/)
+### [**Pacto de Sal - Sitio Web**](https://pactodesal.netlify.app/)
