@@ -336,6 +336,8 @@ INTRO CONTAINER
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    padding: 50px 20px; 
+    text-align: center;
 }
 .pricing.background_content::before {
     content: '';
@@ -351,6 +353,9 @@ INTRO CONTAINER
     position: relative;
     z-index: 2;
 }
+
+
+
 .reservation.background_content{
     background: url('../images/reservation-seat.jpg') no-repeat center center;
     background-size: cover;
@@ -1177,4 +1182,40 @@ details a:hover {
 .cta-container{
 	position: relative;
     z-index: 2;
+}
+
+/* Catalogo */
+.catalogo {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    padding: 20px 0 0 0 ;
+    margin: 20px auto; 
+    max-width: 600px; 
+    text-align: center;
+}
+
+.catalogo h2 {
+    margin-bottom: 20px; 
+    font-size: 1.5rem; 
+    
+}
+
+.catalogo button {
+    padding: 15px 40px; 
+    font-size: 1.2rem; 
+    font-weight: bold;
+    background-color: #4CAF50;
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: all 0.3s ease-in-out; 
+}
+
+.catalogo button:hover {
+    background-color: #45A049; 
+    transform: scale(1.15); 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
 }
